@@ -1,4 +1,4 @@
-# Hi, I'm Anil Kumar 👋
+# Hi, I'm K. Anil 👋
 
 🎓 MCA Student (2025–2027) at Sapthagiri Institute of Management
 
@@ -8,6 +8,7 @@
 - SQL
 - Advanced Excel
 - Power BI
+- Tableau
 - Python
 - Pandas
 - NumPy
@@ -15,20 +16,17 @@
 - Generative AI
 
 ## Projects
-- Sales Performance Dashboard
-- Customer Churn Analysis
-- Employee Analytics Dashboard
-- Netflix Content Analysis
-- E-Commerce Sales Analysis
 
-## Currently Learning
-- Advanced SQL
-- Power BI Dashboarding
-- Data Analytics with AI
-- Python for Data Analysis
+### 📊 Sales Performance Dashboard (Tableau)
+- Created KPI Cards for Total Sales, Total Profit, and Total Orders
+- Analyzed Sales by Category and Region
+- Built Monthly Sales Trend Analysis Dashboard
+
+### 📈 Data Analytics Projects
+- Power BI Dashboards
+- SQL Practice Projects
+- Excel Data Analysis
 
 ## Connect With Me
-- LinkedIn: linkedin.com/in/anil-k-a5b957232
-- Email: kummaraanil1999@gmail.com
-
-🚀 Open to Data Analyst, MIS Executive, and Business Analyst opportunities.
+- LinkedIn: [https://www.linkedin.com/in/anil-k-a5b957232]
+- GitHub: [https://github.com/Anilk-203]
